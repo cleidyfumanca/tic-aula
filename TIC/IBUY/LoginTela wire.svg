@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'MyriadPro-Regular';}
+	.st2{font-size:80.6963px;}
+	.st3{font-size:32.2762px;}
+	.st4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st5{font-size:34.0761px;}
+</style>
+<g>
+	<rect x="396.5" y="23.5" class="st0" width="590" height="706"/>
+	<path d="M986,24v705H397V24H986 M987,23H396v707h591V23L987,23z"/>
+</g>
+<text transform="matrix(1 0 0 1 622.7656 127.5586)" class="st1 st2">Login</text>
+<text transform="matrix(1 0 0 1 489.8828 361.9717)" class="st1 st3">Senha</text>
+<text transform="matrix(1 0 0 1 484.8828 207.9717)" class="st1 st3">Nome</text>
+<line class="st4" x1="473.93" y1="431.5" x2="893.07" y2="431.5"/>
+<line class="st4" x1="473.93" y1="272.5" x2="893.07" y2="272.5"/>
+<path class="st4" d="M784.5,624.5h-230c-6.6,0-12-5.4-12-12v-44c0-6.6,5.4-12,12-12h230c6.6,0,12,5.4,12,12v44
+	C796.5,619.1,791.1,624.5,784.5,624.5z"/>
+<text transform="matrix(1 0 0 1 629.001 601.9492)" class="st1 st5">Botão</text>
+</svg>

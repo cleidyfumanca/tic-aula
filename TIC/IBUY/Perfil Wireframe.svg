@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'MyriadPro-Regular';}
+	.st2{font-size:41.7079px;}
+	.st3{font-size:25.8081px;}
+</style>
+<g>
+	<rect x="0.5" y="1.5" class="st0" width="422" height="767"/>
+	<path d="M422,2v766H1V2H422 M423,1H0v768h423V1L423,1z"/>
+</g>
+<g>
+	<circle class="st0" cx="621.5" cy="181.5" r="121"/>
+	<path d="M621.5,61c32.19,0,62.45,12.53,85.21,35.29S742,149.31,742,181.5s-12.53,62.45-35.29,85.21S653.69,302,621.5,302
+		s-62.45-12.53-85.21-35.29S501,213.69,501,181.5s12.53-62.45,35.29-85.21S589.31,61,621.5,61 M621.5,60
+		C554.4,60,500,114.4,500,181.5S554.4,303,621.5,303S743,248.6,743,181.5S688.6,60,621.5,60L621.5,60z"/>
+</g>
+<g>
+	<circle class="st0" cx="185.5" cy="140.5" r="121"/>
+	<path d="M185.5,20c32.19,0,62.45,12.53,85.21,35.29S306,108.31,306,140.5s-12.53,62.45-35.29,85.21S217.69,261,185.5,261
+		s-62.45-12.53-85.21-35.29S65,172.69,65,140.5s12.53-62.45,35.29-85.21S153.31,20,185.5,20 M185.5,19C118.4,19,64,73.4,64,140.5
+		S118.4,262,185.5,262S307,207.6,307,140.5S252.6,19,185.5,19L185.5,19z"/>
+</g>
+<text transform="matrix(1 0 0 1 146.4375 384.3301)" class="st1 st2">Perfil</text>
+<text transform="matrix(1 0 0 1 146.4375 445.3301)" class="st1 st2">Carrinho</text>
+<text transform="matrix(1 0 0 1 148.4375 641.3301)" class="st1 st2">Sobre Nós</text>
+<text transform="matrix(1 0 0 1 147.4375 503.3301)" class="st1 st2">Historico</text>
+<text transform="matrix(1 0 0 1 141.4375 575.3301)" class="st1 st2">Definições</text>
+<text transform="matrix(1 0 0 1 674.4092 249.8809)" class="st1 st3">Editar Foto</text>
+<text transform="matrix(1 0 0 1 150.4092 135.8809)"><tspan x="0" y="0" class="st1 st3">Foto de</tspan><tspan x="0" y="30.97" class="st1 st3">Perfil</tspan></text>
+<text transform="matrix(1 0 0 1 557.4092 434.8809)" class="st1 st3">Nome</text>
+<text transform="matrix(1 0 0 1 916.4092 434.8809)" class="st1 st3">E-mail</text>
+<text transform="matrix(1 0 0 1 918.4092 523.8809)" class="st1 st3">Cartão de Credito</text>
+<text transform="matrix(1 0 0 1 547.4092 523.8809)" class="st1 st3">Tipo de Conta</text>
+</svg>
